@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Go Grocery Shopping</key>
+	<array>
+		<string>NO</string>
+		<string>Fresh fruits, eggs, 2% milk, bagels, olive oil, whole grain cereal, reduced-fat cheese, cooking spray, coffee, pepper.</string>
+		<string>Normal</string>
+		<string>2013-12-17 at 21:00</string>
+	</array>
+	<key>Get Ready for Commencement</key>
+	<array>
+		<string>YES</string>
+		<string>Virginia Tech University Ceremony: Friday, December 20, 2013 - 11:00 a.m.  - Cassell Coliseum - 2 Hours (Undergraduate candidates will receive graduation materials as they cross the stage) Note: There are no individual college or departmental ceremonies held in the fall.</string>
+		<string>High</string>
+		<string>2013-12-20 at 11:00</string>
+	</array>
+	<key>Buy a MacBook Pro</key>
+	<array>
+		<string>NO</string>
+		<string>15-inch: 2.3GHz with Retina display, 2.3GHz quad-core Intel Core i7, Turbo Boost up to 3.5GHz, 16GB 1600MHz memory, 512GB PCIe-based flash storage, Intel Iris Pro Graphics, NVIDIA GeForce GT 750M with 2GB GDDR5 memory, Built-in battery (8 hours).</string>
+		<string>Normal</string>
+		<string>2014-01-31 at 21:00</string>
+	</array>
+	<key>Go Hiking at Cascades</key>
+	<array>
+		<string>YES</string>
+		<string>Driving Directions: Take exit 118 I-81 north on US-460, making sure to use the bypasses around Christiansburg and Blacksburg. After 26.6 miles turn right on Cascade Dr (SR-T623) in Pembroke. The entrance is in 3.3 miles.</string>
+		<string>Low</string>
+		<string>2013-12-14 at 13:00</string>
+	</array>
+	<key>Study for the iOS Final Exam</key>
+	<array>
+		<string>NO</string>
+		<string>Consists of developing an iOS app during the exam period based on a given design specification. Part A: In-Class at 9:30 – 10:45 a.m. in Torgersen 1010 on December 10 Tuesday. Part B: Take-Home (continuation of the final exam). Email final exam app to balci@vt.edu before 9:00 a.m. on December 11 Wednesday. Late submissions are not allowed.</string>
+		<string>High</string>
+		<string>2013-12-10 at 9:30</string>
+	</array>
+	<key>Order iPad Air</key>
+	<array>
+		<string>NO</string>
+		<string>16GB for $499. The new iPad Air comes with the new A7 chip designed with 64-bit architecture. iPhoto, iMovie, GarageBand, Pages, Numbers, and Keynote come with the iPad free of charge.</string>
+		<string>Low</string>
+		<string>2013-11-06 at 22:00</string>
+	</array>
+	<key>Get Ready for the Party</key>
+	<array>
+		<string>YES</string>
+		<string>About 20 people are coming to the party. Select a movie to watch towards the end of the party. Identify songs to play at the party.</string>
+		<string>Low</string>
+		<string>2013-10-26 at 19:30</string>
+	</array>
+	<key>Wash Car</key>
+	<array>
+		<string>YES</string>
+		<string>Southern Classic Soft Cloth Auto Wash, Address: 2855 N Franklin St, Christiansburg, VA 24073, Phone: (540) 382-1450</string>
+		<string>Normal</string>
+		<string>2013-11-02 at 14:45</string>
+	</array>
+	<key>Rent an Apartment</key>
+	<array>
+		<string>NO</string>
+		<string>Search and rent an apartment in Washington, DC area.</string>
+		<string>High</string>
+		<string>2014-01-06 at 20:00</string>
+	</array>
+	<key>Go Biking on Huckleberry Trail</key>
+	<array>
+		<string>YES</string>
+		<string>The Huckleberry Trail is an asphalt-paved bike/pedestrian path. The trail currently runs from the Blacksburg library to the New River Mall. There are distance markers every half mile. At 2.83 miles it crosses the road to Warm Hearth, at 3.43 miles it crosses Hightop, and at 3.90 it crosses Merrimac. The total distance from the library to the mall is 5.762 miles.</string>
+		<string>High</string>
+		<string>2013-10-19 at 15:00</string>
+	</array>
+	<key>Vacation in Istanbul</key>
+	<array>
+		<string>NO</string>
+		<string>Istanbul is the largest city in Turkey, constituting the country&apos;s economic, cultural, and historical heart. With a population of 13.9 million, the city forms one of the largest urban agglomerations in Europe and is the second-largest city in the world by population within city limits.</string>
+		<string>High</string>
+		<string>2013-12-22 at 17:30</string>
+	</array>
+	<key>Visit Sister in Paris</key>
+	<array>
+		<string>NO</string>
+		<string>Paris is the capital and most populous city of France. It is situated on the River Seine, in the north of the country, at the heart of the Île-de-France region. Within its administrative limits (the 20 arrondissements), the city had 2,234,105 inhabitants in 2009 while its metropolitan area is one of the largest population centers in Europe with more than 12 million inhabitants.</string>
+		<string>Low</string>
+		<string>2014-01-15 at 13:45</string>
+	</array>
+	<key>Watch VT - Miami Football Game</key>
+	<array>
+		<string>YES</string>
+		<string>The Miami–Virginia Tech football rivalry is an American college football rivalry between the Miami Hurricanes football team of the University of Miami and Virginia Tech Hokies football team of Virginia Tech. The Hurricanes and Hokies football teams first met on November 13, 1953 in Miami. The two teams have played annually since 1992, and the rivalry developed when the Hokies became a member of the Big East Conference for football in 1995. When the Atlantic Coast Conference (ACC) expanded in 2004, both Miami and Virginia Tech became members of the ACC. Both teams continue to compete annually as part of the ACC&apos;s Coastal Division.</string>
+		<string>Normal</string>
+		<string>2013-11-09 at 19:00</string>
+	</array>
+	<key>See a Movie at the Lyric</key>
+	<array>
+		<string>YES</string>
+		<string>Since 1998, the Lyric has operated a not-for-profit movie theatre and community center in the heart of downtown Blacksburg, Virginia. It is located on College Avenue across the street from Virginia Tech&apos;s main campus. See http://www.thelyric.com/ for more information.</string>
+		<string>Low</string>
+		<string>2014-02-01 at 19:15</string>
+	</array>
+</dict>
+</plist>
